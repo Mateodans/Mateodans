@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently looking for my first job in the IT industry<br>I have learned different technologies: <br>like Javscript, React, PHP, Laravel, SQL
+I am currently looking for my first job in the IT industry<br>I have learned different technologies: <br>like Javscript, React, NextJs, Angular, PHP, Laravel, SQL
 
 
 ## 🌐 Socials:
