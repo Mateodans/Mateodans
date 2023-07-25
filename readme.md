@@ -15,9 +15,6 @@ I am currently looking for my first job in the IT industry<br>I have learned dif
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mateodans&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=MateoDans)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
